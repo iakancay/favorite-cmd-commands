@@ -9,4 +9,4 @@
 
 ## **3- $ git push**
 
-*You can send the last version of your repository from your computer to GitHub account. Work hard Push lot :-)* 
+*You can send the last version of your repository from your computer to GitHub account.* `Work hard Push lot :-)`
